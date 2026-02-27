@@ -1,0 +1,5 @@
+customtkinter
+pynput
+pandas
+seaborn
+matplotlib
